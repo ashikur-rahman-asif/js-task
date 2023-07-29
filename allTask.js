@@ -158,4 +158,4 @@ function secondSmallest(array) {
 
   return secondSmallest;
 }
-console.log(secondSmallest([1, 3, 6, 78, 4, 2]));
+console.log(secondSmallest([1, 3, 6, 78, 4, 2]))
